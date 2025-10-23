@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 MMCSD.svg Page-5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st3 {fill:#f2f2f2;stroke:#c7c8c8;stroke-width:0.25}
+		.st4 {fill:#ffffff;stroke:#c7c8c8;stroke-width:0.25}
+		.st5 {fill:#000000;font-family:Calibri;font-size:1.99999em}
+		.st6 {font-size:1em}
+		.st7 {marker-end:url(#mrkr13-28);marker-start:url(#mrkr13-26);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st9 {fill:none;stroke:none;stroke-width:0.25}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-26" class="st8" v:arrowType="13" v:arrowSize="2" v:setback="10.2" refX="10.2" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr13-28" class="st8" v:arrowType="13" v:arrowSize="2" v:setback="10.56" refX="-10.56" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="13" v:index="5" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-5</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(62.3622,-173.191)">
+			<title>矩形.1141</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="360.142" width="505.134" height="235.134" class="st2"/>
+			</g>
+			<rect x="0" y="360.142" width="505.134" height="235.134" class="st3"/>
+		</g>
+		<g id="shape2-6" v:mID="2" v:groupContext="shape" transform="translate(85.6064,-202.59)">
+			<title>矩形.1142</title>
+			<desc>DMA Interface</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="80.8076" cy="558.438" width="161.62" height="73.6754"/>
+			<g id="shadow2-7" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="521.6" width="161.615" height="73.6754" class="st2"/>
+			</g>
+			<rect x="0" y="521.6" width="161.615" height="73.6754" class="st4"/>
+			<text x="56.22" y="551.24" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>DMA <v:newlineChar/><tspan
+						x="36.85" dy="1.2em" class="st6">Interface</tspan></text>		</g>
+		<g id="shape3-13" v:mID="3" v:groupContext="shape" transform="translate(269.858,-202.59)">
+			<title>矩形.1143</title>
+			<desc>Register Interface</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="80.8076" cy="558.438" width="161.62" height="73.6754"/>
+			<g id="shadow3-14" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="521.6" width="161.615" height="73.6754" class="st2"/>
+			</g>
+			<rect x="0" y="521.6" width="161.615" height="73.6754" class="st4"/>
+			<text x="41.05" y="551.24" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Register <tspan
+						x="36.85" dy="1.2em" class="st6">Interface</tspan></text>		</g>
+		<g id="shape4-20" v:mID="4" v:groupContext="shape" transform="translate(761.69,392.686) rotate(90)">
+			<title>工作表.4</title>
+			<path d="M10.2 595.28 L10.56 595.28 L33.43 595.28" class="st7"/>
+		</g>
+		<g id="shape5-29" v:mID="5" v:groupContext="shape" transform="translate(945.942,392.686) rotate(90)">
+			<title>工作表.5</title>
+			<path d="M10.2 595.28 L10.56 595.28 L33.43 595.28" class="st7"/>
+		</g>
+		<g id="shape6-36" v:mID="6" v:groupContext="shape" transform="translate(1069.24,191.545) rotate(90)">
+			<title>矩形.1146</title>
+			<desc>Device interface and controller unit</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="111.224" cy="558.438" width="222.45" height="73.6754"/>
+			<g id="shadow6-37" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.97279,-0.345598)" class="st1">
+				<rect x="0" y="521.6" width="222.449" height="73.6754" class="st2"/>
+			</g>
+			<rect x="0" y="521.6" width="222.449" height="73.6754" class="st4"/>
+			<text x="11.18" y="551.24" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Device interface and <tspan
+						x="41.23" dy="1.2em" class="st6">controller unit</tspan></text>		</g>
+		<g id="shape7-43" v:mID="7" v:groupContext="shape" transform="translate(179.109,-286.163)">
+			<title>矩形.1147</title>
+			<desc>SD/eMMC Host Controller</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="80.8076" cy="559.91" width="161.62" height="70.7304"/>
+			<rect x="0" y="524.545" width="161.615" height="70.7304" class="st9"/>
+			<text x="30.39" y="523.91" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>SD/eMMC<v:newlineChar/><tspan
+						x="6.35" dy="1.2em" class="st6">Host Controller</tspan><v:newlineChar/><v:newlineChar/></text>		</g>
+		<g id="shape8-47" v:mID="8" v:groupContext="shape" transform="translate(567.496,-290.758)">
+			<title>工作表.8</title>
+			<path d="M10.2 595.28 L10.56 595.28 L36.82 595.28" class="st7"/>
+		</g>
+		<g id="shape9-54" v:mID="9" v:groupContext="shape" transform="translate(614.875,-253.92)">
+			<title>矩形.1150</title>
+			<desc>SD/eMMC Device</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="65.481" cy="558.438" width="130.97" height="73.6754"/>
+			<g id="shadow9-55" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="521.6" width="130.962" height="73.6754" class="st2"/>
+			</g>
+			<rect x="0" y="521.6" width="130.962" height="73.6754" class="st4"/>
+			<text x="15.06" y="551.24" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>SD/eMMC<v:newlineChar/><tspan
+						x="32.91" dy="1.2em" class="st6">Device</tspan></text>		</g>
+	</g>
+</svg>

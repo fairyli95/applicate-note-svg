@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 VOL SWITCH.svg Page-6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st19">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st3 {fill:#d8d8d8;stroke:#c8c8c8;stroke-width:0.25}
+		.st4 {fill:#000000;font-family:黑体;font-size:0.833336em}
+		.st5 {font-family:Calibri;font-size:1em}
+		.st6 {fill:#5b9bd5;fill-opacity:0.25;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.25}
+		.st7 {fill:#d8d8d8;stroke:#41719c;stroke-width:0.75}
+		.st8 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st9 {font-family:黑体;font-size:1em}
+		.st10 {font-size:1em}
+		.st11 {fill:#d8d8d8;stroke:#c7c8c8;stroke-width:0.25}
+		.st12 {fill:#d8d8d8;stroke:#ee0000;stroke-width:0.25}
+		.st13 {fill:#d8d8d8;stroke:#5b9bd5;stroke-width:0.25}
+		.st14 {marker-end:url(#mrkr4-91);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st15 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st16 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st17 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st18 {marker-end:url(#mrkr13-145);stroke:#000000;stroke-width:1}
+		.st19 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-91" class="st15" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-145" class="st15" v:arrowType="13" v:arrowSize="2" v:setback="10.56" refX="-10.56" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="16" v:index="6" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-6</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="流程图" v:index="0"/>
+		<v:layer v:name="连接线" v:index="1"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(320.598,-448.819)">
+			<title>流程</title>
+			<desc>发送 CMD11 命令以切换电压</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="89.0079" cy="581.102" width="178.02" height="28.3465"/>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="566.929" width="178.016" height="28.3465" class="st2"/>
+			</g>
+			<rect x="0" y="566.929" width="178.016" height="28.3465" class="st3"/>
+			<text x="26.66" y="584.43" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>发送<tspan class="st5"> </tspan><tspan
+						class="st5" v:langID="1033">CMD11 </tspan>命令以切换电压</text>		</g>
+		<g id="shape2-9" v:mID="2" v:groupContext="shape" v:layerMember="0" transform="translate(360,-503.15)">
+			<title>开始/结束</title>
+			<desc>开始: 电压切换</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.6063" cy="581.102" width="99.22" height="28.3465"/>
+			<g id="shadow2-10" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M14.17 595.28 L85.04 595.28 A14.1732 14.1732 -180 1 0 85.04 566.93 L14.17 566.93 A14.1732 14.1732 -180 1
+							 0 14.17 595.28 Z" class="st6"/>
+			</g>
+			<path d="M14.17 595.28 L85.04 595.28 A14.1732 14.1732 -180 1 0 85.04 566.93 L14.17 566.93 A14.1732 14.1732 -180 1 0 14.17
+						 595.28 Z" class="st7"/>
+			<text x="17.14" y="584.43" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>开始<tspan class="st5">: </tspan>电压切换</text>		</g>
+		<g id="shape5-16" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(320.598,-380.315)">
+			<title>判定</title>
+			<desc>命令是否成功</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="89.0079" cy="574.016" width="148.35" height="31.8898"/>
+			<g id="shadow5-17" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 574.02 L89.01 552.76 L178.02 574.02 L89.01 595.28 L0 574.02 Z" class="st6"/>
+			</g>
+			<path d="M0 574.02 L89.01 552.76 L178.02 574.02 L89.01 595.28 L0 574.02 Z" class="st7"/>
+			<text x="54.01" y="577.34" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>命令是否成功？</text>		</g>
+		<g id="shape6-22" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(320.598,-311.811)">
+			<title>判定.6</title>
+			<desc>DATA 线是否被拉低?</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="89.0079" cy="574.016" width="148.35" height="31.8898"/>
+			<g id="shadow6-23" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 574.02 L89.01 552.76 L178.02 574.02 L89.01 595.28 L0 574.02 Z" class="st6"/>
+			</g>
+			<path d="M0 574.02 L89.01 552.76 L178.02 574.02 L89.01 595.28 L0 574.02 Z" class="st7"/>
+			<text x="44.26" y="577.34" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>DATA <tspan
+						class="st9" v:langID="2052">线是否被拉低</tspan><tspan class="st10" v:langID="2052">?</tspan></text>		</g>
+		<g id="shape7-30" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(320.772,-257.48)">
+			<title>流程.7</title>
+			<desc>将供电电压切换至 1.8V</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="89.0079" cy="581.102" width="178.02" height="28.3465"/>
+			<g id="shadow7-31" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="566.929" width="178.016" height="28.3465" class="st2"/>
+			</g>
+			<rect x="0" y="566.929" width="178.016" height="28.3465" class="st3"/>
+			<text x="38.71" y="584.43" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>将供电电压切换至<tspan
+						class="st5"> </tspan><tspan class="st5">1.8</tspan><tspan class="st5" v:langID="1033">V</tspan></text>		</g>
+		<g id="shape9-39" v:mID="9" v:groupContext="shape" transform="translate(360,-203.149)">
+			<title>工作表.9</title>
+			<desc>延时 5ms</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="51.874" cy="581.102" width="103.75" height="28.3465"/>
+			<g id="shadow9-40" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="566.929" width="103.748" height="28.3465" class="st2"/>
+			</g>
+			<rect x="0" y="566.929" width="103.748" height="28.3465" class="st11"/>
+			<text x="32.26" y="584.43" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>延时<tspan class="st5"> </tspan><tspan
+						class="st5">5</tspan><tspan class="st5" v:langID="1033">ms</tspan></text>		</g>
+		<g id="shape10-48" v:mID="10" v:groupContext="shape" transform="translate(330.429,-148.818)">
+			<title>工作表.10</title>
+			<desc>设置 DATA 线电压高电平轮询超时时间为 1ms</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4449" cy="581.102" width="162.89" height="28.3465"/>
+			<g id="shadow10-49" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="566.929" width="162.89" height="28.3465" class="st2"/>
+			</g>
+			<rect x="0" y="566.929" width="162.89" height="28.3465" class="st11"/>
+			<text x="2.89" y="577.77" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>设置<tspan class="st5"> </tspan><tspan
+						class="st5" v:langID="1033">DATA </tspan>线电压高电平轮询超时时<tspan x="61.83" dy="1.331em" class="st10">间为</tspan><tspan
+						class="st5"> </tspan><tspan class="st5">1</tspan><tspan class="st5" v:langID="1033">ms</tspan></text>		</g>
+		<g id="shape11-60" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(330.429,-80.3145)">
+			<title>判定.11</title>
+			<desc>DATA 线是否被拉高?</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="77.1476" cy="574.016" width="128.58" height="31.8898"/>
+			<g id="shadow11-61" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 574.02 L77.15 552.76 L154.3 574.02 L77.15 595.28 L0 574.02 Z" class="st6"/>
+			</g>
+			<path d="M0 574.02 L77.15 552.76 L154.3 574.02 L77.15 595.28 L0 574.02 Z" class="st7"/>
+			<text x="32.4" y="577.34" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>DATA <tspan
+						class="st9" v:langID="2052">线是否被拉高</tspan><tspan class="st10" v:langID="2052">?</tspan></text>		</g>
+		<g id="shape13-68" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(511.846,-80.3145)">
+			<title>判定.13</title>
+			<desc>电压高电平轮询是否超时</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="77.1476" cy="574.016" width="128.58" height="31.8898"/>
+			<g id="shadow13-69" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 574.02 L77.15 552.76 L154.3 574.02 L77.15 595.28 L0 574.02 Z" class="st6"/>
+			</g>
+			<path d="M0 574.02 L77.15 552.76 L154.3 574.02 L77.15 595.28 L0 574.02 Z" class="st7"/>
+			<text x="17.15" y="577.34" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>电压高电平轮询是否超时？</text>		</g>
+		<g id="shape15-74" v:mID="15" v:groupContext="shape" transform="translate(563.996,-25.9837)">
+			<title>工作表.15</title>
+			<desc>切换失败</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.9983" cy="581.102" width="50" height="28.3465"/>
+			<g id="shadow15-75" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="566.929" width="49.9966" height="28.3465" class="st2"/>
+			</g>
+			<rect x="0" y="566.929" width="49.9966" height="28.3465" class="st12"/>
+			<text x="5" y="584.43" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>切换失败</text>		</g>
+		<g id="shape16-80" v:mID="16" v:groupContext="shape" transform="translate(382.578,-25.9837)">
+			<title>工作表.16</title>
+			<desc>切换成功</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.9983" cy="581.102" width="50" height="28.3465"/>
+			<g id="shadow16-81" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="566.929" width="49.9966" height="28.3465" class="st2"/>
+			</g>
+			<rect x="0" y="566.929" width="49.9966" height="28.3465" class="st13"/>
+			<text x="5" y="584.43" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>切换成功</text>		</g>
+		<g id="shape17-86" v:mID="17" v:groupContext="shape" v:layerMember="1" transform="translate(402.52,-503.15)">
+			<title>动态连接线</title>
+			<path d="M7.09 595.28 L7.09 614.22" class="st14"/>
+		</g>
+		<g id="shape18-92" v:mID="18" v:groupContext="shape" v:layerMember="1" transform="translate(402.52,-448.819)">
+			<title>动态连接线.18</title>
+			<path d="M7.09 595.28 L7.09 614.22" class="st14"/>
+		</g>
+		<g id="shape19-97" v:mID="19" v:groupContext="shape" v:layerMember="1" transform="translate(402.52,-380.315)">
+			<title>动态连接线.19</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="608.268" width="40" height="17.6036"/>
+			<path d="M7.09 595.28 L7.09 614.22" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="5.13743" y="603.468" width="3.8985" height="9.59985" class="st16"/>
+			<text x="5.14" y="610.67" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+		<g id="shape20-104" v:mID="20" v:groupContext="shape" v:layerMember="1" transform="translate(402.607,-311.811)">
+			<title>动态连接线.20</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.17348" cy="608.181" width="40" height="17.6036"/>
+			<path d="M7 595.28 L7 605.91 L7.17 605.91 L7.17 614.22" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="5.22429" y="603.381" width="3.8985" height="9.59985" class="st16"/>
+			<text x="5.22" y="610.58" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+		<g id="shape21-111" v:mID="21" v:groupContext="shape" v:layerMember="1" transform="translate(402.693,-257.48)">
+			<title>动态连接线.21</title>
+			<path d="M7.09 595.28 L7.09 614.22" class="st14"/>
+		</g>
+		<g id="shape22-116" v:mID="22" v:groupContext="shape" v:layerMember="1" transform="translate(404.787,-203.149)">
+			<title>动态连接线.22</title>
+			<path d="M7.09 595.28 L7.09 614.22" class="st14"/>
+		</g>
+		<g id="shape23-121" v:mID="23" v:groupContext="shape" v:layerMember="1" transform="translate(400.49,-148.818)">
+			<title>动态连接线.23</title>
+			<path d="M7.09 595.28 L7.09 614.22" class="st14"/>
+		</g>
+		<g id="shape26-126" v:mID="26" v:groupContext="shape" v:layerMember="1" transform="translate(400.49,-80.3145)">
+			<title>动态连接线.26</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="608.268" width="40" height="17.6036"/>
+			<path d="M7.09 595.28 L7.09 614.22" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="5.13743" y="603.468" width="3.8985" height="9.59985" class="st16"/>
+			<text x="5.14" y="610.67" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+		<g id="shape27-133" v:mID="27" v:groupContext="shape" v:layerMember="1" transform="translate(581.907,-80.3145)">
+			<title>动态连接线.27</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="608.268" width="40" height="17.6036"/>
+			<path d="M7.09 595.28 L7.09 614.22" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="5.13743" y="603.468" width="3.8985" height="9.59985" class="st16"/>
+			<text x="5.14" y="610.67" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+		<g id="shape28-140" v:mID="28" v:groupContext="shape" transform="translate(407.577,-122.834)">
+			<title>工作表.28</title>
+			<desc>N</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90.7087" cy="588.661" width="181.42" height="13.2289"/>
+			<path d="M181.42 595.28 L181.42 582.05 L10.56 582.05" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="88.1266" y="583.861" width="5.16412" height="9.59985" class="st16"/>
+			<text x="88.13" y="591.06" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>N</text>		</g>
+	</g>
+</svg>
